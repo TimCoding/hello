@@ -1,5 +1,5 @@
-package main
+package loud
 
 func main() {
-	Demo()
+	Loud()
 }
