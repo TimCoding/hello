@@ -1,9 +1,9 @@
-package loud
+package hello
 
-import(
-    "fmt"
+import (
+	"fmt"
 )
 
-func Loud(){
-    fmt.Println("I LIKE TO SPEAK IN ALL CAPS")
+func Loud() {
+	fmt.Println("I LIKE TO SPEAK IN ALL CAPS")
 }

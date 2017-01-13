@@ -1,4 +1,4 @@
-package loud
+package hello
 
 import (
 	"fmt"
